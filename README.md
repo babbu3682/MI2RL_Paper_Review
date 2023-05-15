@@ -17,8 +17,8 @@
 
 # Contents
 
-| Date       | Title                                                        | Paper       | Presenter       |
-| ---------- | ------------------------------------------------------------ | --------------- |
+| Date       | Title                                                              | Paper   | Presenter    |
+| ---------- | ------------------------------------------------------------------ | ------- | ------------ |
 | 2023.04.05 | [NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction](https://github.com/babbu3682/MI2RL_Paper_Review/blob/master/pdf/NAF_REVIEW.pdf) | [Link](https://arxiv.org/abs/2209.14540) | 박강길 |
 
 | 2023.04.19 | [Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation](https://github.com/babbu3682/MI2RL_Paper_Review/blob/master/pdf/Plug-and-Play%20Diffusion%20Features%20for%20Text-Driven%20Image-to-Image%20Translation.pdf) | [Link](https://arxiv.org/abs/2211.12572) | 최창용 |
