@@ -22,3 +22,4 @@
 | 2023.04.05 | [NAF: Neural Attenuation Fields for Sparse-View CBCT Reconstruction](https://github.com/babbu3682/MI2RL_Paper_Review/blob/master/pdf/NAF_REVIEW.pdf) | [Link](https://arxiv.org/abs/2209.14540) | 박강길 |
 | 2023.04.19 | [Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation](https://github.com/babbu3682/MI2RL_Paper_Review/blob/master/pdf/Plug-and-Play%20Diffusion%20Features%20for%20Text-Driven%20Image-to-Image%20Translation.pdf) | [Link](https://arxiv.org/abs/2211.12572) | 최창용 |
 | 2023.05.03 | [Understanding Diffusion Models: A Unified Perspective](https://github.com/babbu3682/MI2RL_Paper_Review/blob/master/pdf/VDM.pdf) | [Link](https://arxiv.org/abs/2208.11970) | 원종준 |
+| 2023.05.17 | [Segment Anything](https://github.com/babbu3682/MI2RL_Paper_Review/blob/master/pdf/Segment_Anything_230517_이소영.pdf) | [Link](https://arxiv.org/abs/2304.02643) | 이소영 |
